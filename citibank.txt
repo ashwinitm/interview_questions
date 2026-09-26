@@ -1,0 +1,3 @@
+Java:
+1. Explain java Record class
+2. sealed classes in java 17
