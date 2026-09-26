@@ -1,5 +1,6 @@
 Java:
 1. Explain java Record class
 2. sealed classes in java 17
-3.pattern matching in instanceof
+3. pattern matching in instanceof
+4. pattern matching in switch case
 5. Karat test
