@@ -5,3 +5,4 @@ Java:
 4. pattern matching in switch case
 5. Karat test
 6.virtual threads
+7.composition
